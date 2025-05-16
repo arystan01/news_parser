@@ -26,6 +26,6 @@ Kazakhstani news websites:
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/buf-news-parsers.git
-cd buf-news-parsers
+git clone https://github.com/arystan01/news-parsers.git
+cd news-parsers
 pip install -r requirements.txt
